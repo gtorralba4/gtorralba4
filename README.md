@@ -61,7 +61,7 @@ I'm currently looking for **Data Analyst / Junior Data Scientist / PhD** opportu
 
 ### 🎮 Minecraft (In development)
 
-- **Sheyicoins** — *short description of the mechanic and what makes it fun.*
+- **Sheyicoins** — Simplistic currency mod with random events that spice things up and foster community goods exchange which also aims to somewhat balance overpowered modpacks.
 
 ---
 
@@ -101,9 +101,7 @@ Actualmente busco oportunidades como **Analista de Datos / Científico de Datos 
 
 ---
 
-## 📂 Proyectos
-
-### 🔭 Astrofísica
+## 📂 Otros Proyectos
 
 | Subproyecto | Descripción |
 |---|---|
@@ -123,25 +121,16 @@ Actualmente busco oportunidades como **Analista de Datos / Científico de Datos 
 | **MESA** | Prácticas con MESA: evolución completa de modelos de 1 M☉ (pre-secuencia principal hasta combustión de helio) y 20 M☉; diagramas HR, perfiles nucleares, pérdida de masa. |
 | **YSO** | Ajuste de SED y clasificación de Objetos Estelares Jóvenes usando fotometría de Gaia EDR3 + WISE/IRAS; clasificación por etapa evolutiva. |
 
-**TFM** — *Trabajo Final de Máster*
-Tema principal: oscilaciones de estrellas de neutrones y astrosismología (Julia/Mathematica). Múltiples modelos de ecuación de estado (APR, BBS1, BSk22, FPS, GM1, MPA1, RMF2, SLy4, SLy9), implementaciones del solucionador de las ecuaciones TOV, estudios de convergencia de la aproximación de Cowling, construido sobre el paquete `NeutronStarOscillations.jl` de Keeble. Incluye documentación, borradores y material de presentación.
-
 ### 🌐 Web
 
 - **[MousePress](https://github.com/gtorralba4/MouseBench)** — [sitio web](https://mousebench.fyi)
-  He observado que la mayoría de webs de test de ratón y similares suelen requerir cookies adicionales no relacionadas con el test, o incluso registro de usuario, así que he estado desarrollando mi propia web para ayudar a la gente a resolver problemas relacionados con el ratón (y quizás con el teclado más adelante).
+  He visto que la mayoría de webs de test de ratón y similares suelen requerir cookies adicionales no relacionadas con el test, o incluso un registro, así que he estado desarrollando mi propia web para ayudar a la gente a resolver problemas relacionados con el ratón (y quizás con el teclado más adelante).
   Tests de ratón en el navegador: velocidad de clic, DPI, tasa de sondeo (polling rate), latencia. Funciona
   completamente en local — sin rastreo, sin cuentas — además de artículos editoriales en EN/DE/ES.
 
-### 🎮 Minecraft
+### 🎮 Minecraft (en desarrollo)
 
-- **[Nombre del mod]** — *breve descripción de la mecánica y qué lo hace divertido.*
+- **Sheyicoins** — Mod de economía minimalista con eventos aleatorios que le añaden un toque de impredictibilidad y con el objetivo de incentivar el intercambio de bienes entre jugadoes. También busca compensar un poco algun modpack desbalanceado.
 
 ---
-
-## 📫 Contacto
-
-- 📧 [gabrieltorralba.c@gmail.com](mailto:gabrieltorralba.c@gmail.com)
-- 🌐 [MousePress](https://mousebench.fyi)
-
 </details>
