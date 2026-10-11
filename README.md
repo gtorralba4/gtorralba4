@@ -57,11 +57,6 @@ I'm currently looking for **Data Analyst / Junior Data Scientist / PhD** opportu
   I've seen that most mouse-test and similar sites often require extra non-test related cookies or even sign-ups, so I've been developing my own website to help people resolve mouse-related issues (and maybe keyboard-related down the line).
   Browser-based tests for your mouse: click speed, DPI, polling rate, latency. Runs
   entirely locally — no tracking, no accounts — plus editorial articles in EN/DE/ES.
-
-### 🎮 Minecraft (In development)
-
-- **Sheyicoins** — Simplistic currency mod with random events that spice things up and foster community goods exchange which also aims to somewhat balance overpowered modpacks.
-
 ---
 
 <details>
@@ -126,10 +121,6 @@ Actualmente busco oportunidades como **Analista de Datos / Científico de Datos 
   He visto que la mayoría de webs de test de ratón y similares suelen requerir cookies adicionales no relacionadas con el test, o incluso un registro, así que he estado desarrollando mi propia web para ayudar a la gente a resolver problemas relacionados con el ratón (y quizás con el teclado más adelante).
   Tests de ratón en el navegador: velocidad de clic, DPI, tasa de sondeo (polling rate), latencia. Funciona
   completamente en local — sin rastreo, sin cuentas — además de artículos editoriales en EN/DE/ES.
-
-### 🎮 Minecraft (en desarrollo)
-
-- **Sheyicoins** — Mod de economía minimalista con eventos aleatorios que le añaden un toque de impredictibilidad y con el objetivo de incentivar el intercambio de bienes entre jugadoes. También busca compensar un poco algun modpack desbalanceado.
 
 ---
 </details>
