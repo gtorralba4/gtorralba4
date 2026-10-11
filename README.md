@@ -16,14 +16,22 @@ while being fun and actually useful, from browser-based hardware tests to visual
 
 ## My big projects
 
-**TFM** — *Trabajo Final de Máster (Master's Thesis)*
+**Master's Thesis**
 Core topic: neutron star oscillations & asteroseismology (Julia/Mathematica). Multiple EOS models (APR, BBS1, BSk22, FPS, GM1, MPA1, RMF2, SLy4, SLy9), TOV solver implementations, Cowling approximation convergence studies, built on the [`NeutronStarOscillations.jl`](https://github.com/lennoxkeeble/NeutronStarOscillations.jl) package by Keeble. Supervised by Dr. Yago Bea Besade and Dr. Jorge Casalderrey Solana.
 
-**TFG** — *Treball de Fi de Grau (Bachelor's Thesis)*
+![M(R)](img/TFM.png)
+
+![Table 2](img/Table2.png)
+
+**Bachelor's Thesis**
 Core topic: gravitational microlensing and limb darkening of supermagnified stars. Fit a 6-parameter statistical model (later extended to 8 parameters) to 131 real HST photometric measurements across 2 filters, using Bayesian nested sampling (`UltraNest`). Supervised by Dr. Jordi Miralda-Escudé. Published in ASP Conference Proceedings, Vol. 543 (Habitable Worlds Observatory: Mission Framework, Technology, and Broader Contributions); also available as a [preprint on arXiv](https://arxiv.org/abs/2607.14034). Currently ongoing extension.
+
+![TFG](img/UN_2c2f_145_C_00.png)
 
 **SPHEREx/Gaia** — *Stellar Classification from Multi-Survey Photometry*
 Core topic: infrared excess and binarity/accretion classification of Gaia-selected stellar sources. Adapted an existing data-cleaning and cross-catalogue matching pipeline for 32 sources across 7 survey catalogues, applying SNR ≥ 3 cuts, automated contaminant detection, and outlier rejection (MAD filtering). Fit photospheric blackbody models to each source's spectral energy distribution, classifying infrared excess above 3σ significance in 30 of 32 sources. Supervised by Dr. Nadejda Blagorodnova.
+
+![Spherex](img/187219239343050880_fit.jpg)
 
 I'm currently looking for **Data Analyst / Junior Data Scientist / PhD** opportunities.
 
@@ -85,11 +93,19 @@ de hardware en el navegador hasta visualizaciones del cosmos.
 **TFM** — *Trabajo Final de Máster*
 Tema principal: oscilaciones de estrellas de neutrones y astrosismología (Julia/Mathematica). Usando múltiples modelos de ecuación de estado (APR, BBS1, BSk22, FPS, GM1, MPA1, RMF2, SLy4, SLy9), implementaciones del solucionador de las ecuaciones TOV, estudios de convergencia de la aproximación de Cowling, construido sobre el paquete [`NeutronStarOscillations.jl`](https://github.com/lennoxkeeble/NeutronStarOscillations.jl) de Keeble. Dirigido por el Dr. Yago Bea Besade y el Dr. Jorge Casalderrey Solana.
 
-**TFG** — *Treball de Fi de Grau*
+![M(R)](img/TFM.png)
+
+![Table 2](img/Table2.png)
+
+**TFG** — *Trabajo final de grado*
 Tema principal: microlente gravitatoria y oscurecimiento de limbo (limb darkening) en estrellas supermagnificadas. Ajuste de un modelo estadístico de 6 parámetros (ampliado posteriormente a 8) a 131 medidas fotométricas reales del HST en 2 filtros, mediante muestreo anidado bayesiano (`UltraNest`). Dirigido por el Dr. Jordi Miralda-Escudé. Publicado en ASP Conference Proceedings, Vol. 543 (Habitable Worlds Observatory: Mission Framework, Technology, and Broader Contributions); disponible también como [preprint en arXiv](https://arxiv.org/abs/2607.14034). Actualmente en proceso de ampliación.
+
+![TFG](img/UN_2c2f_145_C_00.png)
 
 **SPHEREx/Gaia** — *Clasificación Estelar a partir de Fotometría Multi-Survey*
 Tema principal: clasificación de exceso infrarrojo y de señales de binaridad/acreción en fuentes estelares seleccionadas de Gaia. Adapté un pipeline existente de limpieza de datos y cruce de catálogos para 32 fuentes en 7 catálogos de sondeos, aplicando cortes de SNR ≥ 3, detección automática de contaminantes y rechazo de valores atípicos (filtrado MAD). Ajusté modelos de cuerpo negro fotosférico a la distribución espectral de energía de cada fuente, clasificando el exceso infrarrojo por encima de 3σ de significancia en 30 de las 32 fuentes. Dirigido por la Dra. Nadejda Blagorodnova.
+
+![Spherex](img/187219239343050880_fit.jpg)
 
 Actualmente busco oportunidades como **Analista de Datos / Científico de Datos Júnior / Doctorado (PhD)**.
 
