@@ -1,13 +1,13 @@
-# Hi, I'm Gabriel 👋
+# Welcome to my GitHub 👋
 
-*Astrophysics · data analysis · web development · Minecraft modding.*
+*Astrophysics · data analysis*
 
 Physicist (MSc Astrophysics, Universitat de Barcelona) working at the intersection
 of statistical modelling and data analysis. My background is in extracting robust
 signal from noisy, messy real-world data — neutron star oscillations, gravitational
 lensing, and multi-survey astronomical photometry — and I'm now applying that same
-rigor to data analysis more broadly. Along the way I also build tools that are fun
-to use and actually useful, from browser-based hardware tests to visualising the cosmos.
+rigor to data analysis more broadly. Along the way I also pick up side-projects that allow me to grow
+while being fun and actually useful, from browser-based hardware tests to visualising the cosmos.
 
 **What I work with:**
 - 🐍 Python (UltraNest, NumPy, PyCBC) for statistical modelling, data cleaning, and Bayesian inference
@@ -51,7 +51,6 @@ I'm currently looking for **Data Analyst / Junior Data Scientist / PhD** opportu
 | **MESA** | MESA lab: 1 M☉ (pre-MS to He-burning) and 20 M☉ full evolution runs; HR diagrams, nuclear profiles, mass-loss. |
 | **YSO** | SED fitting & classification of Young Stellar Objects using Gaia EDR3 + WISE/IRAS photometry; YSO evolutionary stage classification. |
 
-
 ### 🌐 Web
 
 - **[MousePress](https://github.com/gtorralba4/MouseBench)** — [site](https://mousebench.fyi)
@@ -68,17 +67,17 @@ I'm currently looking for **Data Analyst / Junior Data Scientist / PhD** opportu
 <details>
 <summary>🇪🇸 Español</summary>
 
-# ¡Hola, soy Gabriel 👋
+# Bienvenido/a mi GitHub 👋
 
-*Astrofísica · análisis de datos · desarrollo web · modding de Minecraft.*
+*Astrofísica · análisis de datos*
 
 Físico (Máster en Astrofísica, Universitat de Barcelona) que trabaja en la
 intersección entre la modelización estadística y el análisis de datos. Mi
 trayectoria se centra en extraer señal fiable a partir de datos reales,
-ruidosos y complejos — oscilaciones de estrellas de neutrones, lentes
-gravitatorias y fotometría astronómica multi-survey — y ahora aplico ese
+ruidosos y complejos — oscilaciones de estrellas de neutrones, lente
+gravitatoria y fotometría astronómica multi-survey — y ahora aplico ese
 mismo rigor al análisis de datos en un sentido más amplio. Por el camino,
-también construyo herramientas divertidas y realmente útiles, desde tests
+también voy aprendiendo y construyendo herramientas divertidas y realmente útiles, desde tests
 de hardware en el navegador hasta visualizaciones del cosmos.
 
 **Con qué trabajo:**
